@@ -1,1 +1,1 @@
-# micro this is my first repogatory 
+# micro this is my first repository 
